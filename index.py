@@ -76,8 +76,8 @@ def menu():
     while True:
         # Menampilkan opsi menu untuk pengguna dalam bentuk tabel
         print("\n+------------------------------------------+")
-        print("|        SISTEM MANAGEMENT INVENTORY        |")
-        print("+------------------------------------------+")
+        print("|        SISTEM MANAGEMENT INVENTORY       |")
+        print("+----+-------------------------------------+")
         print("| NO |               Opsi Menu             |")
         print("+----+-------------------------------------+")
         print("| 1  | Add Item                            |")
